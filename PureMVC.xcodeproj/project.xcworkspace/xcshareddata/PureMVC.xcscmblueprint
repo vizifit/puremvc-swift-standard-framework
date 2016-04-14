@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CCF15A7E1F1979E60309BDB8FBE7FB0FCBC4C702",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CCF15A7E1F1979E60309BDB8FBE7FB0FCBC4C702" : 0,
+    "EEDA923275239AAC39DE0BC0BF4BCF3066935C47" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2BE9D0B4-BF73-490A-96FF-09D721B719B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CCF15A7E1F1979E60309BDB8FBE7FB0FCBC4C702" : "puremvc-swift-standard-framework",
+    "EEDA923275239AAC39DE0BC0BF4BCF3066935C47" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PureMVC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PureMVC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sshams\/puremvc-swift-standard-framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CCF15A7E1F1979E60309BDB8FBE7FB0FCBC4C702"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vizifit\/BigMav.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEDA923275239AAC39DE0BC0BF4BCF3066935C47"
+    }
+  ]
+}
