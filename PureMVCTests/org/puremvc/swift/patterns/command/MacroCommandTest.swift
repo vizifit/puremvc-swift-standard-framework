@@ -9,6 +9,7 @@
 import XCTest
 import PureMVC
 
+
 /**
 Test the PureMVC SimpleCommand class.
 
